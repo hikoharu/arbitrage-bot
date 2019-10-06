@@ -1,0 +1,4 @@
+CREATE TABLE `sequence` (
+  `id` bigint(11) unsigned NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=164018 DEFAULT CHARSET=latin1;
